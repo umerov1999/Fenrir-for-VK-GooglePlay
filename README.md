@@ -1,5 +1,5 @@
-# Fenrir VK
-# Разработка прекращена окончательно!
+# Fenrir VK GooglePlay
+# Новый репозиторий https://github.com/umerov1999/Fenrir-for-VK
 Первый языческий
 
 <b>Языки: Русский, английский</b>
